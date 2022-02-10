@@ -1,0 +1,32 @@
+{
+    "status": "ok",
+    "totalResults": 2,
+    "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "cricket.com.au"
+        },
+        "author": "AAP",
+        "title": "Big guns set to return for U19 World Cup semi-final - cricket.com.au",
+        "description": "Australia are hopeful allrounder Nivethan Radhakrishnan will return for their semi-final against India at the Under-19 World Cup",
+        "url": "https://www.cricket.com.au/news/australia-under-19-world-cup-india-semi-final-covid-19-nivethan-radhakrishnan-teague-wyllie/2022-01-30",
+        "urlToImage": "https://www.cricket.com.au/~/-/media/News/2022/01/30Radhakrishnan.ashx?w=1600",
+        "publishedAt": "2022-01-29T23:05:30Z",
+        "content": "Australian officials are hopeful ambidextrous spinner Nivethan Radhakrishnan will be available again for their Under-19 Cricket World Cup semi-final after the squad was infiltrated by COVID-19.\r\nIt's… [+2335 chars]"
+      },
+      {
+        "source": {
+          "id": "abc-news-au",
+          "name": "ABC News (AU)"
+        },
+        "author": "ABC News",
+        "title": "Ashleigh Gardner and Mitchell Starc claim the the biggest awards in Australian cricket - ABC News",
+        "description": "The first Indigenous player to claim one of Australian cricket's top awards, Ashleigh Gardner puts her maiden Belinda Clark Award down to a more mature approach on and off the field, while Mitchell Starc's consistency sees him win the Allan Border Medal.",
+        "url": "https://www.abc.net.au/news/2022-01-29/ashleigh-gardner-mitchell-starc-belinda-clark-allan-border-medal/100790304",
+        "urlToImage": "https://live-production.wcms.abc-cdn.net.au/888dee1d1b447670670df1ce7326ce63?impolicy=wcms_crop_resize&cropH=2328&cropW=4138&xPos=146&yPos=0&width=862&height=485",
+        "publishedAt": "2022-01-29T06:21:31Z",
+        "content": "Ashleigh Gardner's new-found maturity has paved the way for her to become the first Indigenous player to claim one of Australian cricket's top honours.\r\nKey points:\r\n<ul><li>Ashleigh Gardner picked u… [+5276 chars]"
+      }
+    ]
+  }
